@@ -1,8 +1,8 @@
 # Statistics With Python
 
-<img src='stats.method.png' width=300>
-
 Here's my [notebook](stats.ipynb) for Statistics with python implementation
+
+<img src='stat_methods.png' width=600>
 
 ### Table of Contents
 - Statistics Summary
