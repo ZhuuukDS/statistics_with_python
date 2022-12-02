@@ -3,7 +3,7 @@
 Here's my [notebook](stats.ipynb) for Statistics with python implementation
 
 ## Table of Contents
-- [Statistics Summary](#Statistics-Summary)
+- [Statistics Summary](stats.ipynb#Statistics-Summary)
   - Types of Statistics
   - Population and Sample
   - Types of Variables
