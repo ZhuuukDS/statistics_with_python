@@ -1,6 +1,6 @@
 # Statistics With Python
 
-Here's my notebook for Statistics with python implementation
+Here's my [notebook](stats.ipynb) for Statistics with python implementation
 
 ## Table of Contents
 - [Statistics Summary](#Statistics-Summary)
